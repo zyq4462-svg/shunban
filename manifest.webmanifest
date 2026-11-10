@@ -1,0 +1,14 @@
+{
+  "name": "顺办 · 单机版",
+  "short_name": "顺办",
+  "description": "单机版任务与课表管理：不联网、无账号、数据只存在本机浏览器。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f3e8",
+  "theme_color": "#f8f3e8",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
